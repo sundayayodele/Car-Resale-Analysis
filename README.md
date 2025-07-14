@@ -46,6 +46,12 @@ The dataset includes details on:
 
 ---
 
+📄 Full Presentation
+
+[📂 View on Google Drive (PDF)](https://drive.google.com/file/d/1Ziz8Lxsaoc2GD81kyu0OvWDy0I7tzaRK/view?usp=sharing)
+
+---
+
 ## 🔍 Key Insights
 
 - Luxury brands like Mercedes and BMW depreciated faster than mainstream brands like Toyota.
