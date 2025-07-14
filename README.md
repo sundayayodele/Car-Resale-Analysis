@@ -55,6 +55,23 @@ The dataset includes details on:
 
 ---
 
+## 📄 Project Presentation
+
+You can view the full presentation PDF here:  
+👉 [Car Resales Power BI Report (PDF)](Car_Resales_Presentation.pdf)
+
+---
+
+## 📷 Dashboard Preview
+
+### Full Dashboard Overview  
+![Dashboard](dashboard.png)
+
+### Price vs Mileage Visual  
+![Price vs Mileage](price_vs_mileage.png)
+
+---
+
 ## 💡 Recommendations
 
 - Buyers should consider mileage and transmission type as key factors for value retention.
